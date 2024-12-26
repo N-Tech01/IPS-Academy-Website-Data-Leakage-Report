@@ -2,7 +2,7 @@
 
 ## Overview
 Hello,  
-My name is Navarath, and I would like to bring a potential security issue to your attention. I discovered this issue while exploring websites using Google Dorks as part of my learning in basic ethical hacking at CADD Centre. I am currently studying in 8th standard.
+My name is Navarath, and I would like to bring a potential security issue to your attention. I discovered this issue while exploring websites using Google Dorks as part of my learning in basic ethical hacking at CADD Centre. I am currently studying 8th standard.
 
 ## Description of the Issue
 While searching through Google, I came across sensitive data accessible on the **IPS Academy website**. Specifically, I noticed that some private data is exposed through the following link:  
