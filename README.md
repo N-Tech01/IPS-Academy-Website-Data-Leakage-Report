@@ -8,7 +8,7 @@ My name is Navarath, and I would like to bring a potential security issue to you
 While searching through Google, I came across sensitive data accessible on the **IPS Academy website**. Specifically, I noticed that some private data is exposed through the following link:  
 `https://www.ipsacademy.org/assets/`
 
-This directory may contain sensitive files that could be accessed by unauthorized users, posing a potential security risk.
+This directory may contain sensitive files that could be accessed by unauthorized users.
 
 > **Disclaimer**: This project is for educational purposes only.  
 > **Note**: The link is functional and accessible.
@@ -22,10 +22,10 @@ Use Google Dorks to search for sensitive directories and files exposed to the pu
 Please review this report and ensure the security of your website. Kindly take necessary actions to secure sensitive areas and implement proper access controls to prevent unauthorized access to private data.
 
 ## Screenshots
-Screenshots will be attached in this repository for your reference. (e.g., `Screenshot 2024-12-20 174543.png`)
+Screenshots will be attached in this repository for your reference. (e.g., `Screenshot 2024-12-26 120442`)
 
 ## Disclaimer
-This project is posted here for ethical purposes only. Any misuse of this report for illegal activities or malicious purposes is strictly prohibited, and I am not responsible for any consequences arising from such actions. All content in this repository is protected under copyright law. Unauthorized republishing without proper paper is prohibited.
+This project is posted here for ethical purposes only. Any misuse of this report for illegal activities or malicious purposes is strictly prohibited and I am not responsible for any consequences arising from such actions. All content in this repository is protected under copyright law. Unauthorized republishing without proper paper is prohibited.
 
 ## Request for Acknowledgment
 I hope this report is helpful.
