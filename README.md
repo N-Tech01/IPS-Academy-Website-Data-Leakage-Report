@@ -1,4 +1,4 @@
-# IPS Academy Data Leakage Report
+# IPS Academy Website Data Leakage Report
 
 ## Overview
 Hello,  
